@@ -1,2 +1,2 @@
 # test1
-This is a testing repository to demonstrate git workflows.  
+This is a testing repository to demonstrate git processes.  
